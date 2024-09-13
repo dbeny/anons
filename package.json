@@ -1,0 +1,14 @@
+{
+	"name": "anons",
+	"version": "0.1.0",
+	"workspaces": [
+		"src/client",
+		"src/server",
+		"src/shared"
+	],
+	"author": "dbeny",
+	"license": "AGPL-3.0",
+	"dependencies": {
+		"@types/node": "^22.5.4"
+	}
+}

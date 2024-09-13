@@ -1,0 +1,13 @@
+{
+	"name": "anons-shared",
+	"version": "0.1.0",
+	"scripts": {
+		"build": "webpack build",
+		"watch": "webpack watch --mode=development"
+	},
+	"author": "dbeny",
+	"license": "AGPL-3.0",
+	"devDependencies": {
+		"typescript": "^5.4.5"
+	}
+}
